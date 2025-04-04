@@ -5887,15 +5887,14 @@ react-is@^16.13.1, react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-gesture-handler@~2.20.2:
-  version "2.20.2"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.20.2.tgz#73844c8e9c417459c2f2981bc4d8f66ba8a5ee66"
-  integrity sha512-HqzFpFczV4qCnwKlvSAvpzEXisL+Z9fsR08YV5LfJDkzuArMhBu2sOoSPUF/K62PCoAb+ObGlTC83TKHfUd0vg==
+react-native-gesture-handler@2.25.0:
+  version "2.25.0"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.25.0.tgz#3a5a8912ea4f5e68ab211a9fa5a191c08ad50883"
+  integrity sha512-NPjJi6mislXxvjxQPU9IYwBjb1Uejp8GvAbE1Lhh+xMIMEvmgAvVIp5cz1P+xAbV6uYcRRArm278+tEInGOqWg==
   dependencies:
     "@egjs/hammerjs" "^2.0.17"
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
-    prop-types "^15.7.2"
 
 react-native-helmet-async@2.0.4:
   version "2.0.4"
@@ -5969,10 +5968,10 @@ react-native-webview@13.12.5:
     escape-string-regexp "^4.0.0"
     invariant "2.2.4"
 
-react-native-worklets@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-worklets/-/react-native-worklets-0.1.0.tgz#bb39986ce2e5228d37dd1acd79d330b6d56f55bb"
-  integrity sha512-+SlJfWlclW8T2W9l5q9EuDhurHk6OKc3892yQNrNgeJr7vBEYdHEpjyHsQR4nnpfSt13nzB5OZrL4OAD1sQnWw==
+react-native-worklets@0.2.0-nightly-20250403-cb84e9802:
+  version "0.2.0-nightly-20250403-cb84e9802"
+  resolved "https://registry.yarnpkg.com/react-native-worklets/-/react-native-worklets-0.2.0-nightly-20250403-cb84e9802.tgz#799285afe12ee1efbc705aad3975ece7cd86bbc7"
+  integrity sha512-vWJZopK3V6h4jJgPYikcudd8TxPte/2Z25+D4MnWQbWiz3mpYuj0C1ogsapWMKk64oVbDd4Rhj7qohyIjCB9Gw==
 
 react-native@0.77.2:
   version "0.77.2"
